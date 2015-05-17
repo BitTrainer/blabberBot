@@ -1,4 +1,4 @@
-package service
+package blabberBot
 
 //BroadcastDataSource manages broadcasts in permanent storage.
 type BroadcastDataSource interface {
